@@ -4,6 +4,7 @@ export const settings = {
     currentWordClass: 'active',
     errorClass: 'error',
     currentClass: 'current',
+    wordClass: 'word',
     timerId: 'timer',
     maxTime: 120,
     mainElementId: 'main',
